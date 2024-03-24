@@ -12,4 +12,6 @@
   <li> Gestion du site et de la base de donnée avec une page admin </li>
 </ul>
 
-<p> Pour cela, nous avons utiliser figma afin de faire des maquette du site : </p>
+<p> Pour cela, nous avons utiliser figma afin de faire des maquette du site :  </br> https://www.figma.com/file/E2OjPqrcZiVnI0jekDwZpZ/AccordEnergie?type=design&node-id=0%3A1&mode=design&t=A2XfsufZH17KtYua-1 </p>
+</br>
+<p> Nous avons aussi mis en place un diagramme de Gantt pour pouvoir programmé toutes nos tâches dans un délai que nous devions réspécter :</p>
