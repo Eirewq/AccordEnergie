@@ -1,4 +1,5 @@
 <h1> Accord Energie </h1>
+<p> Projet réaliser par : Enzo Garnier, Rania Mehria, Rabah Benni et Tony Paturot </p>
 </br>
 <p> Notre projet consistait à faire une plateforme de gestion d'interventions, conçue pour simplifier et optimiser la coordination entre clients, intervenants, standardistes et administrateurs. Il offre une solution intuitive et sécurisée pour répondre efficacement aux besoins de suivi et de gestion des interventions. </p>
 
